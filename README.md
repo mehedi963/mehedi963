@@ -3,6 +3,13 @@
 </p>
 
 ..................................................................................................................................................................................................................................
+### 👨‍💻 About Me
+
+I’m a passionate Full Stack Developer with a strong focus on the MERN stack (MongoDB, Express, React, Node.js).  
+I love building web applications that solve real-world problems and improve user experiences.  
+Currently, I’m enhancing my skills with advanced JavaScript frameworks and backend technologies.  
+Actively seeking opportunities to contribute to innovative teams and grow as a developer.
+..................................................................................................................................................................................................................................
 
 ✅## Current Status
 
