@@ -14,8 +14,7 @@
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi963&layout=compact&theme=radical" alt="Top Languages" />
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=mehedi963&show_icons=true&theme=radical" alt="GitHub Stats" />
+
 
 </div>
 
